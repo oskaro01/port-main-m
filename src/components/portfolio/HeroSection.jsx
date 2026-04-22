@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useEffect, useRef } from 'react';
 
 const tickerText = "Available for Global Commission · Full-Stack Web Developer · Open to Opportunities · Sabit Al Hasan · ";

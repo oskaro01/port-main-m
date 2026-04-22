@@ -1,17 +1,9 @@
-import "@/index.css";
-import Providers from "./providers";
-
-export const metadata = {
-  title: "Portfolio",
-  description: "Portfolio app",
-};
+import "./globals.css";
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body>
-        <Providers>{children}</Providers>
-      </body>
+      <body>{children}</body>
     </html>
   );
 }

@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState } from 'react';
 
 const projects = [
@@ -118,9 +120,9 @@ export default function ProjectsSection() {
                 </span>
               ))}
             </div>
-            </a>
-            ))}
-            </div>
+          </a>
+        ))}
+      </div>
 
       <div className="mt-8 flex justify-center">
         <a
