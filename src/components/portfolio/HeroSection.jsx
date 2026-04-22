@@ -83,7 +83,7 @@ export default function HeroSection() {
           </div>
 
           {/* Right: Profile image */}
-          <div className="flex justify-center lg:justify-end">
+          <div className="flex justify-center lg:justify-end lg:mr-6">
             <div className="relative">
               <div className="absolute -inset-4 border border-grid-line" />
               <div className="absolute -inset-8 border border-grid-line opacity-50" />
