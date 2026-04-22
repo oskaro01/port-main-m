@@ -72,7 +72,7 @@ export default function HeroSection() {
                 View Projects
               </a>
               <a
-                href="https://media.base44.com/files/public/69e09f0f54a6bfd6302b4e39/8e078b79e_upMyCv2-duplicate-link-exposed.pdf"
+                href="https://drive.google.com/file/d/1qljF4v0EiOn0gvDG7VEv3f_jFn3u0qkk/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-8 py-3 border border-grid-line text-silver font-mono-jetbrains text-sm uppercase tracking-widest hover:border-cobalt hover:text-cobalt transition-colors duration-200 min-h-[44px]"

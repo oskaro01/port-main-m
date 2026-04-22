@@ -38,7 +38,7 @@ export default function NavBar() {
             </a>
           ))}
           <a
-            href="mailto:sabitalhasan888@gmail.com"
+            href="mail_to:sabitalhasan888@gmail.com"
             className="font-mono-jetbrains text-xs px-4 py-2 border border-cobalt text-cobalt hover:bg-cobalt hover:text-white transition-all duration-200 uppercase tracking-widest min-h-[44px] flex items-center"
           >
             Hire Me
