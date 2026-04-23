@@ -89,7 +89,7 @@ export default function HeroSection() {
               <div className="absolute -inset-8 border border-grid-line opacity-50" />
               <div className="relative w-64 h-80 md:w-72 md:h-96">
                 <img
-                  src="https://media.base44.com/images/public/69e09f0f54a6bfd6302b4e39/3f794740a_IMG_1881copy1.jpg"
+                  src="profile2.png"
                   alt="Sabit Al Hasan"
                   className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                   style={{ objectPosition: '50% 10%' }}
